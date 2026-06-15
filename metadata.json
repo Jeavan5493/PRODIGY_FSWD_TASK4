@@ -1,0 +1,6 @@
+{
+  "name": "Real-Time Chat",
+  "description": "A real-time chat application using WebSockets for instant messaging, group rooms, private chat, presence, and multimedia sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
